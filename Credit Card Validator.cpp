@@ -1,9 +1,4 @@
-/*
-ID- 040
-Name - KALKIDAN TADESSE
-Section - A
 
-*/
 #include <iostream> 
 #include <string> 
 #include <cstring>
